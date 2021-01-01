@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-01T10:29:09.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XCvlJPExhWNP6x1ap1f7" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-01T10:30:18.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BXgXENxCTqgEbpSNgdVG" version="14.1.1" type="github">
   <diagram id="GIAdPq7uxsLHTISDpYCu" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,6 +36,21 @@
         </mxCell>
         <mxCell id="HG44vMQYZL6i5QNaDtSO-20" value="Add handwritten sketch" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HG44vMQYZL6i5QNaDtSO-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HG44vMQYZL6i5QNaDtSO-28" target="HG44vMQYZL6i5QNaDtSO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HG44vMQYZL6i5QNaDtSO-28" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HG44vMQYZL6i5QNaDtSO-29" value="Create Note" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HG44vMQYZL6i5QNaDtSO-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HG44vMQYZL6i5QNaDtSO-30" target="HG44vMQYZL6i5QNaDtSO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HG44vMQYZL6i5QNaDtSO-30" value="Create Private Note" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
